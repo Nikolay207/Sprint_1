@@ -15,6 +15,3 @@ for i in b:
         t = i.replace('s', '')
         m = m + int(t)//60
 print(m)
-
-
-ь
