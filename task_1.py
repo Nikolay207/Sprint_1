@@ -1,1 +1,2 @@
 print ('ку')
+print ('hi')
