@@ -17,5 +17,3 @@ for i in b:
 print(m)
 
 
-
-
